@@ -1,0 +1,1 @@
+[{"outputType":{"type":"AAPT_FRIENDLY_MERGED_MANIFESTS"},"apkData":{"type":"MAIN","splits":[],"versionCode":19,"versionName":"1.1.17","enabled":true,"outputFile":"react-native-webview-android-debug.aar","fullName":"debug","baseName":"debug"},"path":"AndroidManifest.xml","properties":{"packageId":"com.burnweb.rnwebview","split":""}}]

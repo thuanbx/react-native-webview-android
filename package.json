@@ -1,0 +1,68 @@
+{
+  "_from": "git+https://github.com/lylysunshinee/react-native-webview-android.git#de470ad",
+  "_id": "react-native-webview-android@1.1.17",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-webview-android",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "react-native-webview-android@git+https://github.com/lylysunshinee/react-native-webview-android.git#de470ad",
+    "name": "react-native-webview-android",
+    "escapedName": "react-native-webview-android",
+    "rawSpec": "git+https://github.com/lylysunshinee/react-native-webview-android.git#de470ad",
+    "saveSpec": "git+https://github.com/lylysunshinee/react-native-webview-android.git#de470ad",
+    "fetchSpec": "https://github.com/lylysunshinee/react-native-webview-android.git",
+    "gitCommittish": "de470ad"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/lylysunshinee/react-native-webview-android.git#de470adf17ef3c1016c034a453bcbe0f6b8af8d5",
+  "_spec": "react-native-webview-android@git+https://github.com/lylysunshinee/react-native-webview-android.git#de470ad",
+  "_where": "D:\\TOX\\native-mobile-portal",
+  "author": {
+    "name": "Lucas Ferreira",
+    "email": "contato@lucasferreira.com"
+  },
+  "bugs": {
+    "url": "https://github.com/lucasferreira/react-native-webview-android/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "create-react-class": "^15.6.2",
+    "prop-types": "^15.6.0"
+  },
+  "deprecated": false,
+  "description": "Simple React Native Android module to use Android's WebView inside your app",
+  "homepage": "https://github.com/lucasferreira/react-native-webview-android#readme",
+  "keywords": [
+    "react",
+    "react-native",
+    "react-component",
+    "web",
+    "webview",
+    "html",
+    "frame",
+    "iframe",
+    "embed",
+    "android",
+    "upload",
+    "files",
+    "input"
+  ],
+  "license": "MIT",
+  "main": "index",
+  "name": "react-native-webview-android",
+  "peerDependencies": {
+    "react-native": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasferreira/react-native-webview-android.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.17"
+}
